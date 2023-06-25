@@ -1,0 +1,15 @@
+.box {
+  /*ширина,висота квадрату*/
+  height: 220px;
+  width: 350px;
+  /*колір квадрату*/
+  background-color: green;
+  /*внутрішні відступи*/
+  padding: 15px 10px;
+  /*Зовнішній відступ*/
+  margin-bottom: 30px;
+  /*пунктирна границя,колір та товщина*/
+  border-style: dashed;
+  border-color: red;
+  border-width: 2px;
+}
